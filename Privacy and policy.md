@@ -28,30 +28,18 @@ This privacy notice applies to all information collected through our Services (w
 
 
 
-
-[1. WHAT INFORMATION DO WE COLLECT?](https://app.termly.io/dashboard/website/912877/privacy-policy#infocollect)
-
-[2. HOW DO WE USE YOUR INFORMATION?](https://app.termly.io/dashboard/website/912877/privacy-policy#infouse)
-
-[3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?](https://app.termly.io/dashboard/website/912877/privacy-policy#infoshare)
-
-[4. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?](https://app.termly.io/dashboard/website/912877/privacy-policy#intltransfers)
-
-[5. HOW LONG DO WE KEEP YOUR INFORMATION?](https://app.termly.io/dashboard/website/912877/privacy-policy#inforetain)
-
-[6. HOW DO WE KEEP YOUR INFORMATION SAFE?](https://app.termly.io/dashboard/website/912877/privacy-policy#infosafe)
-
-[7. WHAT ARE YOUR PRIVACY RIGHTS?](https://app.termly.io/dashboard/website/912877/privacy-policy#privacyrights)
-
-[8. CONTROLS FOR DO-NOT-TRACK FEATURES](https://app.termly.io/dashboard/website/912877/privacy-policy#DNT)
-
-[9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](https://app.termly.io/dashboard/website/912877/privacy-policy#caresidents)
-
-[10. DO WE MAKE UPDATES TO THIS NOTICE?](https://app.termly.io/dashboard/website/912877/privacy-policy#policyupdates)
-
-[11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](https://app.termly.io/dashboard/website/912877/privacy-policy#contact)
-
-[12. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?](https://app.termly.io/dashboard/website/912877/privacy-policy#request)
+1. WHAT INFORMATION DO WE COLLECT?
+2. HOW DO WE USE YOUR INFORMATION?
+3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+4. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
+5. HOW LONG DO WE KEEP YOUR INFORMATION?
+6. HOW DO WE KEEP YOUR INFORMATION SAFE?
+7. WHAT ARE YOUR PRIVACY RIGHTS?
+8. CONTROLS FOR DO-NOT-TRACK FEATURES
+9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+10. DO WE MAKE UPDATES TO THIS NOTICE?
+11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+12. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
 
 **1. WHAT INFORMATION DO WE COLLECT?**
 
